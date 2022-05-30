@@ -1016,7 +1016,7 @@ opacity: 1;
 .form-input:valid,
  .form-input:focus {
     filter: brightness(100%);
-    background-color: var(--bg-color-2);
+    background-color: var(--bg-color-1);
     border-color: var(--main-color-1);
 }
 .contact-form .form-input {
